@@ -142,60 +142,20 @@ If you encounter any issues or have questions, please:
 2. Refer to the main project repository for updates
 3. Submit issues through the project's issue tracker
 
-## License
+# FISAMY
 
-This tool is released under the MIT License:
+![License: Proprietary](https://img.shields.io/badge/License-FISAMY%20Proprietary-red.svg)
 
-```
-MIT License
+🔒 **FISAMY PROPRIETARY SOFTWARE**
+©️ 2025 All Rights Reserved
 
-Copyright (c) 2024 FISA Cursor Tools
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+⚠️ **IMPORTANT**: This is proprietary software. No permission is granted for:
+- Copying
+- Modification
+- Distribution
+- Commercial use
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+without explicit written permission from FISAMY.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### Important Legal Notice
-
-This tool is provided for educational and troubleshooting purposes only. It is designed to help users resolve technical issues with the Cursor application. Users should:
-
-1. Respect Cursor's terms of service when using this tool
-2. Use this tool responsibly and ethically
-3. Consider purchasing a Cursor subscription to support the developers
-
-### Proprietary Software Disclaimer
-
-Please note:
-
-1. **Cursor is proprietary software** owned by Cursor, Inc. This tool does not include, distribute, or modify any proprietary Cursor code.
-
-2. **This tool only interacts with** the Cursor application through standard Windows interfaces and does not circumvent any technical protection measures.
-
-3. **We are not affiliated with** Cursor, Inc. This is an independent, third-party utility created to help users troubleshoot installation issues.
-
-4. **This tool does not grant any license** to use Cursor software beyond what is provided in Cursor's own license agreement.
-
-5. **Users are responsible** for ensuring their use of Cursor complies with Cursor's terms of service and license agreements.
-
-6. **If Cursor, Inc. requests** the removal of this tool, we will comply immediately.
-
-By using this tool, you acknowledge that you understand these terms and will use the tool in compliance with all applicable laws and agreements.
-
----
-
-*This tool is provided as-is without warranty. Always ensure you have backups of important data before performing system modifications.*
+For licensing inquiries, contact: open@fisamy.work
